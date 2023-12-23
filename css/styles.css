@@ -3500,7 +3500,7 @@ input[type="button"].btn--primary:focus {
     font-weight: 600;
     letter-spacing: -.04em;
     line-height: 1;
-    color: white;
+    color: #fef8de;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -3520,7 +3520,7 @@ input[type="button"].btn--primary:focus {
 }
 
 .s-hero__content h3 span, .s-hero__content h3 a {
-    color: white;
+    color: #fef8de;
 }
 
 .s-hero__content h3::after {
